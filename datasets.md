@@ -12,7 +12,7 @@ cd $DATA_LOCATION
 
 ```bash
 wget https://people.eecs.berkeley.edu/~hendrycks/imagenet-a.tar
-tar -xvzf imagenet-a.tar
+tar -xvf imagenet-a.tar
 rm imagenet-a.tar
 ```
 
@@ -20,7 +20,7 @@ rm imagenet-a.tar
 
 ```bash
 wget https://people.eecs.berkeley.edu/~hendrycks/imagenet-r.tar
-tar -xvzf imagenet-r.tar
+tar -xvf imagenet-r.tar
 rm imagenet-r.tar
 ```
 
